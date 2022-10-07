@@ -26,7 +26,6 @@ namespace Calculadora_WPF
             InitializeComponent();
         }
         
-        //string[] operators = { "+", "-", "*", "/" };
         string value1 = String.Empty;
         double value2 = 0;
         string mathOperator = String.Empty;
